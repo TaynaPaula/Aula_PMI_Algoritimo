@@ -3,4 +3,6 @@
 """
 lado=(input("Digite o lado de um quadrado"))
 area=(lado+lado)
-print("A area é igual a ",  area)
+
+
+#ok

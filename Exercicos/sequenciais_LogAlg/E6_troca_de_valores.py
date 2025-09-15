@@ -10,6 +10,8 @@ print(f"O novo valor de x é {x}")
 print(f"O novo valor de y é {y}")
 
 
+#ok
+
 d= int(input("Digite o valor de x "))
 e= int(input("Digite o valor de y "))
 nd=e
@@ -24,3 +26,6 @@ a, b = b, a
 
 print(f"O novo valor de x é {a}")   
 print(f"O novo valor de y é {b}")
+
+
+#ok

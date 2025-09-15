@@ -6,3 +6,6 @@ c= int(input("Digite o Comprimento "))
 volume=(c*l)*a
 print("O volume do paralelepípedo é: ", volume)
 print(f"O volume do paralelepípedo é: {volume}")#maneiras diferentes de printar
+
+
+#ok

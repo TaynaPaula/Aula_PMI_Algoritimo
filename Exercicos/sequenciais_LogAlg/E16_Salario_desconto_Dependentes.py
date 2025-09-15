@@ -11,3 +11,6 @@ Desc=float(input("Digite o percentual de desconto (sem o %): "))
 Dep=int(input("Digite o número de dependentes: ")) 
 SalarioLiquido = ((H*ValorH) - ((H*ValorH)*Desc/100)) + (Dep * 100)
 print(f"O salário a receber é R$ {SalarioLiquido:.2f}.")
+
+
+#ok

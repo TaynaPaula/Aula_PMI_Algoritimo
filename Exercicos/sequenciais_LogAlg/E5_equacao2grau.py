@@ -9,3 +9,6 @@ RaizD=D**0.5
 R1=(-b+RaizD)/(2*a)
 R2=(-b-RaizD)/(2*a) 
 print(f"As raízes reais da equação {a}x² + {b}x + {c} = 0 são {R1:.2f} e {R2:.2f}.")
+
+
+#ok

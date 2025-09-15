@@ -17,3 +17,6 @@ elif Media>=3 and Media<6:
 else:
     print("RETIDO") 
 print("Média Aritmética: ", Media)
+
+
+#ok

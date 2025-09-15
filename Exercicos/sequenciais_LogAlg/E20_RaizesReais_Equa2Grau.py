@@ -14,3 +14,4 @@ if d>=0:
 else:
     print("Não existem raízes reais para essa equação.")
    
+

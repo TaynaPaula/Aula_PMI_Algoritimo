@@ -4,3 +4,6 @@
 salario= int(input("digite o salario "))
 novoSalario=((salario)*1.15)
 print("Novo salário igual", novoSalario)
+
+
+#ok

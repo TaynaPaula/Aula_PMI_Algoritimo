@@ -7,3 +7,6 @@ v=float(input("Digite a velocidade média (em km/h): "))
 Distancia = t * v
 Litros = Distancia / 12 
 print(f"A quantidade de litros gastos na viagem é {Litros:.2f} litros.")
+
+
+#ok

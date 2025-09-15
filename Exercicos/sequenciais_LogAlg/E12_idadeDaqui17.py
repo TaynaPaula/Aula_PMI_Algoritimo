@@ -7,3 +7,6 @@ idade=atual-nasc
 apos=idade+17
 print(f"Quem nasceu em {nasc} tem {idade} anos em {atual}.")
 print(f"Em {atual+17} você terá {apos} anos.")
+
+
+#ok

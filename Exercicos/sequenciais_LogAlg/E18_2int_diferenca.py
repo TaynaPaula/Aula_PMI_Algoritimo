@@ -10,3 +10,6 @@ else:
     dif=b-a
     print(f"O resultado de {a} - {b}, a diferença do maior pelo menor é {dif}.")
 
+
+
+#ok

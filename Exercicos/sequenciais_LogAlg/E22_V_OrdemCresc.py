@@ -8,3 +8,6 @@ if A!=B:
         print("Ordem crescente A, B: ", A, B)
     else:
         print("Ordem crescente B, A: ", B, A)    
+
+
+#ok

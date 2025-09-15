@@ -5,3 +5,6 @@ a= int(input("Digite o valor de A "))
 b= int(input("Digite o valor de b "))
 res=(a-b)
 print(f"A diferença é {res}")
+
+
+#ok
