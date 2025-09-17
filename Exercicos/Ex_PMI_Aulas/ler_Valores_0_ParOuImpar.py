@@ -7,3 +7,4 @@ while x != 0:
             print("%d é par" % x)
         else:
             print("%d é ímpar" % x)
+print("Programa encerrado.")

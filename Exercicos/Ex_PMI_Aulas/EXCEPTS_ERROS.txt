@@ -1,0 +1,45 @@
+"""
+===============================
+ Principais Erros (Exceções) no Python
+===============================
+
+📌 Erros de Sintaxe e Indentação
+- SyntaxError         → Código escrito errado (ex: esquecer ":" ou parênteses).
+- IndentationError    → Erro de identação (tabulação incorreta no código).
+
+📌 Erros de Valor e Tipo
+- ValueError          → Valor inválido para uma operação.
+                        Ex: int("abc")
+- TypeError           → Operação com tipo incorreto.
+                        Ex: "abc" + 5
+
+📌 Erros Matemáticos
+- ZeroDivisionError   → Divisão por zero.
+                        Ex: 10 / 0
+- OverflowError       → Número muito grande para representar (raro).
+
+📌 Erros com Variáveis e Estruturas
+- NameError           → Variável não definida.
+                        Ex: print(x)  # x não existe
+- IndexError          → Índice inexistente em lista/tupla.
+                        Ex: lista[10]
+- KeyError            → Chave inexistente em dicionário.
+                        Ex: dicionario["chave_invalida"]
+- AttributeError      → Objeto não tem o atributo/método chamado.
+                        Ex: 10.append(5)
+
+📌 Erros com Arquivos
+- FileNotFoundError   → Arquivo não encontrado.
+                        Ex: open("arquivo_inexistente.txt")
+- PermissionError     → Sem permissão para acessar o arquivo.
+
+📌 Erros de Importação
+- ImportError         → Módulo ou função não encontrada ao importar.
+                        Ex: from math import raiz
+
+📌 Outros Erros Gerais
+- RuntimeError        → Erro genérico de execução.
+- MemoryError         → Quando a memória do sistema acaba (muito raro em programas simples).
+- EOFError            → Input() não recebeu valor (fim inesperado da entrada).
+- KeyboardInterrupt   → Execução interrompida pelo usuário (Ctrl+C).
+"""

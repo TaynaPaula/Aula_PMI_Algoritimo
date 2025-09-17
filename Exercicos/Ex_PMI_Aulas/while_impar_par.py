@@ -5,3 +5,4 @@ while x !=0;
         print("%d é par" %x)
     else
         print("%d é impar" %x)
+        print("Programa encerrado.")

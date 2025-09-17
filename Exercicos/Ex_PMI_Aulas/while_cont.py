@@ -6,3 +6,4 @@ while cont < 10:
     print(p)
     p = p + r
     cont = cont + 1
+print("Programa encerrado.")
