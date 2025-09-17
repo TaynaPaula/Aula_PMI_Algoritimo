@@ -7,4 +7,3 @@ print(f"O omprimento da cirferencia é: {C}")
 print(f"O omprimento da cirferencia é: {C:.2f}")#duas maneiras de printar
 
 
-#ok

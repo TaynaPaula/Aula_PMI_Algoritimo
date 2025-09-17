@@ -18,4 +18,3 @@ if divisivel2 and divisivel3:
     print("é divisível por 2 e 3")
 
 
-#ok

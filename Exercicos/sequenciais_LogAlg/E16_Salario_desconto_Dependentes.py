@@ -13,4 +13,3 @@ SalarioLiquido = ((H*ValorH) - ((H*ValorH)*Desc/100)) + (Dep * 100)
 print(f"O salário a receber é R$ {SalarioLiquido:.2f}.")
 
 
-#ok

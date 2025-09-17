@@ -14,5 +14,3 @@ elif D>=B and D<C:
 else:
     print("Ordem crescente A, B, C, D: ", A, B, C, D)
 
-
-#ok

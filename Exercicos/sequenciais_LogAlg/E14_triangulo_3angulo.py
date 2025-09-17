@@ -7,4 +7,3 @@ a3=180-(a1+a2)
 print(f"O valor do 3º ângulo é {a3}º")
 
 
-#ok

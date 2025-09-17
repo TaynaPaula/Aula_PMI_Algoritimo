@@ -6,4 +6,4 @@ dias1 = quant / 0.05
 print(f"Esse alimento vai durar {dias1:.2f} dias.")
 
 
-#ok
+

@@ -10,4 +10,4 @@ if A!=B:
         print("Ordem crescente B, A: ", B, A)    
 
 
-#ok
+

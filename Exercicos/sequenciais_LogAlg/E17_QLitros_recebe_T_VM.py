@@ -9,4 +9,3 @@ Litros = Distancia / 12
 print(f"A quantidade de litros gastos na viagem é {Litros:.2f} litros.")
 
 
-#ok

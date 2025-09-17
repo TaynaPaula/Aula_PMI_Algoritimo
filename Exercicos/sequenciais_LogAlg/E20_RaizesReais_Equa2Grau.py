@@ -13,5 +13,3 @@ if d>=0:
     print(f"As raízes reais da equação {a}x² + {b}x + {c} = 0 são {r1:.2f} e {r2:.2f}.")
 else:
     print("Não existem raízes reais para essa equação.")
-   
-

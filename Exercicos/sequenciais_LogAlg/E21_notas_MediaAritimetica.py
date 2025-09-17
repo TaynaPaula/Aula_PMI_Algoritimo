@@ -19,4 +19,3 @@ else:
 print("Média Aritmética: ", Media)
 
 
-#ok

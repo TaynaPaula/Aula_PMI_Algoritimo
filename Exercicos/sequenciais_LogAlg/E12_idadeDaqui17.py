@@ -9,4 +9,3 @@ print(f"Quem nasceu em {nasc} tem {idade} anos em {atual}.")
 print(f"Em {atual+17} você terá {apos} anos.")
 
 
-#ok
